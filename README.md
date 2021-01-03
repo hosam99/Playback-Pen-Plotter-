@@ -3,3 +3,5 @@ The objective of this project is to design and build a 2-axis pen plotter that p
 
 
 ![](/images/Plotter.JPG)
+
+![](images/Plotter%20Demo.gif)
